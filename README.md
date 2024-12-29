@@ -4,9 +4,9 @@
 We are thrilled to assess your skills and passion for technology through this job task.  
 
 ### **Important Details:**  
-- **Task Deadline:** January 8, 2025  
+- **Task Deadline:** January 10, 2025  
 - **Submission Email:** [jhankar.mahbub145@gmail.com](mailto:jhankar.mahbub145@gmail.com)  
-- **Result Announcement Date:** January 16, 2025  
+- **Result Announcement Date:** January 20, 2025  
 
 We look forward to seeing your creativity and expertise in action!
 Here’s a detailed breakdown of your Free Fire Diamond and PUBG UC selling website project with **client-side** and **server-side** requirements, organized by components and routes. I'll also suggest a fancy name: 
@@ -67,7 +67,7 @@ Here’s a detailed breakdown of your Free Fire Diamond and PUBG UC selling webs
    - **Route:** `/checkout`
    - **Features:**
      - Input fields for user details and payment method.
-     - Option for bKash, Nagad, Rocket, or card payments.
+     - Option for ssl commerz.
      - Confirmation step before placing the order.
    - **Technology:** Form validation with react-hook-form.
 
@@ -211,7 +211,7 @@ Here’s a detailed breakdown of your Free Fire Diamond and PUBG UC selling webs
 
 ---
 
-**8. Deployment**
+**8. Deployment** - Must Create Two repo first for client and another for server side
    - **Frontend Hosting:** Vercel or Netlify.
    - **Backend Hosting:** Render, Heroku, or AWS.
    - **Database:** MongoDB Atlas.
